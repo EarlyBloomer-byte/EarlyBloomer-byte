@@ -7,7 +7,8 @@
 -  Pronouns: He
   
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EarlyBloomer-byte&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarlyBloomer-byte&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarlyBloomer-byte&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats
 <!---
 EarlyBloomer-byte/EarlyBloomer-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 I can click the Preview link to take a look at my changes.
