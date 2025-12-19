@@ -6,7 +6,7 @@
 -  How to reach me: You can reach me via email at [adebayoj383@gmail.com]
 -  Pronouns: He
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EarlyBloomer-byte&theme=react)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EarlyBloomer-byte&theme=react)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EarlyBloomer-byte&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)]
 <!---
