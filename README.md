@@ -9,7 +9,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EarlyBloomer-byte&show_icons=true&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=EarlyBloomer-byte&theme=react)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=EarlyBloomer-byte&theme=react)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EarlyBloomer-byte&layout=compact&theme=react)
 
