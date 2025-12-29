@@ -9,7 +9,7 @@
 
 <!-- GRS (Light Mode) -->
 <div align="center">
-  <a href="https://github.com/DYung26#gh-light-mode-only">
+  <a href="https://github.com/EarlyBloomer-byte#gh-light-mode-only">
     <table cellspacing="0" cellpadding="0">
       <tr>
         <td style="border: 0;">
@@ -21,7 +21,7 @@
         </td>
         <td style="border: 0;">
             <img
-              src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=DYung26&layout=pie&hide_border=true&langs_count=500&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
+              src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EarlyBloomer-byte&layout=pie&hide_border=true&langs_count=500&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-light-mode-only"
               alt="My Language stats"
               width="280"
             />
@@ -67,7 +67,7 @@
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/DYung26#gh-dark-mode-only">
+  <a href="https://github.com/EarlyBloomer-byte#gh-dark-mode-only">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=DYung26&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="GitHub streak stats"
