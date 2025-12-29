@@ -14,7 +14,7 @@
       <tr>
         <td style="border: 0;">
             <img
-              src="https://github-readme-stats-steel-omega.vercel.app/api?username=DYung26&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true&hide=issues#gh-light-mode-only"
+              src="https://github-readme-stats-steel-omega.vercel.app/api?username=EarlyBloomer-byte&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&disable_animations=true&hide=issues#gh-light-mode-only"
               alt="My Github stats"
               height="370"
             />
@@ -33,7 +33,7 @@
 
 <!-- GRS (Dark Mode) -->
 <div align="center">
-  <a href="https://github.com/DYung26#gh-dark-mode-only">
+  <a href="https://github.com/EarlyBloomer-byte#gh-dark-mode-only">
     <table cellspacing="0" cellpadding="0">
       <tr>
         <td style="border: 0;">
