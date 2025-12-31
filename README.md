@@ -1,4 +1,4 @@
--  Hi, I’m @EarlyBloomer-byte
+-  Hi, I’m EarlyBloomer-byte
 -  I’m interested in computer vision, electronics, PCB design and solving environmental and epidemological problems using AI.
 -  I am currently learning advanced techniques in computer vision and exploring how machine learning can be applied to predict and mitigate environmental epidemological risks.
 -  I am also currently working on a speech emotion recognition project....**on hold for now**
