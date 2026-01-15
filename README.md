@@ -46,7 +46,7 @@
         </td>
         <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EarlyBloomer-byte&layout=pie&theme=dracula&hide_border=true&langs_count=500&size_weight=0.5&count_weight=0.5&custom_title=Languages%20distribution&count_private=true#gh-dark-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=EarlyBloomer-byte&layout=pie&theme=solarized-dark&hide_border=true&langs_count=500&size_weight=0.5&count_weight=0.5&custom_title=Languages%20distribution&count_private=true#gh-dark-mode-only"
             alt="My Language stats"
             width="289"
           />
