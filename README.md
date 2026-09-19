@@ -73,8 +73,4 @@
   </a>
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/Alphathanlwin/Alphathanlwin/output/snake.svg" alt="Snake animation" />
-
-###
